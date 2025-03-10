@@ -11,7 +11,7 @@ For a deeper dive into the problem context, see the [Backgrounder Document](Back
 The following KPIs will be used to measure the success of this study:
 ### Femicide Rate
 
-* <mark>It would be helpful to provide a value statement for each KPI to demonstrate you are considering the broader picture, answer "so what?" regarding why this KPI matters.  For example:  The femicide rate provides critical insights for policymakers, guiding the development of comprehensive action plans that address the root causes of violence against women and promote gender equality.</mark>
+The femicide rate provides critical insights for policymakers, guiding the development of comprehensive action plans that address the root causes of violence against women and promote gender equality.</mark>
 * Definition: The number of femicides per 100,000 women in Canada.
 * Frequency: Yearly
 * Range: 0-9999?
