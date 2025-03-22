@@ -27,7 +27,7 @@ Femicide is not just a criminal justice issue; it is a human rights violation an
 To study femicide in Canada, the following datasets will be used:
 1. Canadian Femicide Observatory for Justice and Accountability. (2023). *Femicide in Canada: National Data*. Retrieved from https://www.femicideincanada.ca/ <mark>.
 2. Statistics Canada. (2023). *Homicide Survey*. Retrieved from https://www.statcan.gc.ca/<mark>.
-3. Missing and Murdered Indigenous Women and Girls (MMIWG) Database. (2023). *MMIWG Data*. Retrieved from https://www.mmiwg-ffada.ca/ <mark>I don't see any data here, are you sure?</mark>
+3. Missing and Murdered Indigenous Women and Girls (MMIWG) Database. (2023). *MMIWG Data*. Retrieved from https://www.mmiwg-ffada.ca/ <mark>.
 
 ## References
 
