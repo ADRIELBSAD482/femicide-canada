@@ -7,5 +7,5 @@
 - Cleaned null values in Region column
 - Created calculated field for “Number of Femicides”
 
-Tool used: Tableau Prep and Excel
+Tool used: Excel, Tableau Prep, Tableau Desktop
 
