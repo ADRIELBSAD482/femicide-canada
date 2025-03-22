@@ -1,5 +1,7 @@
 # Background: Femicide in Women and Children in Canada
 
+This project explores patterns of femicide in Canada using data visualization and exploratory analysis.
+
 ## Problem Context and Importance
 
 Femicide, the gender-based killing of women and girls, is a critical issue in Canada. Despite being a country with relatively low homicide rates, Canada continues to see alarming levels of femicide, particularly among Indigenous women and children (Canadian Femicide Observatory for Justice and Accountability [CFOJA], 2022). Femicide is a manifestation of systemic gender inequality, deeply rooted in patriarchal structures that perpetuate violence against women (DeKeseredy, Hall-Sanchez, Nolan, & Rennison, 2021).
