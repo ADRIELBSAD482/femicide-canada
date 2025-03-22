@@ -19,8 +19,10 @@ The choropleth map displays a geographic visualization of femicide counts across
 ![Insight 4](visualizations/Insight%204.png)
 This scatterplot maps the total number of femicides against the average age of victims in each region. Bubble size correlates with total femicide count. It provides insight into regional age distribution of victims, helping to identify whether certain age groups are disproportionately affected.
 
-### Insight 4 – Femicide by Age and Region (Bubble Chart)
+### Insight 5 – Regional Trends in Femicide Over Time (Stacked Area Chart)
 ![Insight 4](visualizations/Insight%205.png)
+This area chart highlights the trends of femicide cases across regions over the years. The Americas again dominate, but Africa shows a sharp incline after 2012. This visualization reinforces long-term patterns and emerging regional dynamics in femicide data.
+
 ---
 
 ## 🔧 Tools Used
