@@ -17,7 +17,7 @@ The femicide rate provides critical insights for policymakers, guiding the devel
 * Range: 0-9999?
 
 
-### Indigenous Femicide Rate**: The proportion of femicide victims who are Indigenous women.
+### Indigenous Femicide Rate: The proportion of femicide victims who are Indigenous women.
 2. **Child Victims**: The number of children affected by femicide, either as witnesses or victims.
 3. **Geographic Distribution**: Femicide rates by province or region.
 4. **Data Completeness**: The percentage of femicide cases with complete and accurate data.
