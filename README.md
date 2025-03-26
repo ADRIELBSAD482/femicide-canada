@@ -30,7 +30,7 @@ The **Americas** and **Europe** regions showed a strong upward trend from 2013�
 
 ## Causal Inference Summary
 
-While some variables are correlated, this does not imply causation. Without additional socioeconomic, legal, or cultural data, we cannot draw definitive causal conclusions. However, the observed trends support the idea that regional conditions may influence femicide rates — a topic worth deeper investigation.
+While some variables are correlated, this does not imply causation. Without additional socioeconomic, legal, or cultural data, I cannot draw definitive causal conclusions. However, the observed trends support the idea that regional conditions may influence femicide rates — a topic worth deeper investigation.
 
 ---
 
