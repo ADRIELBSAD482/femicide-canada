@@ -1,6 +1,6 @@
 # BSAD 482 – Milestone 3: Causal Inference & Correlation Analysis
 
-*By: Adriel Uangbaoje
+By: Adriel Uangbaoje
 
 ## Project Overview
 
