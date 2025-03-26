@@ -1,23 +1,47 @@
-# Femicide in Women and Children in Canada
+# 📊 BSAD 482 – Milestone 3: Causal Inference & Correlation Analysis
 
-*By: Adriel Uangbaoje*
+## 📝 Project Overview
 
-## Executive Summary
-This project aims to analyze femicide rates in Canada, with a focus on women and children. Femicide, the gender-based killing of women and girls, is a critical issue that reflects systemic gender inequality and violence. Indigenous women and children are disproportionately affected, highlighting the need for targeted interventions and policy changes.
+This project analyzes the rise in femicide in Canada from 2008 to 2022 using a cleaned homicide dataset. The goal is to identify regional and demographic patterns, visualize trends over time, and explore possible causal relationships using correlation analysis.
 
-For a deeper dive into the problem context, see the [Backgrounder Document](Background.md).
+The complete notebook can be found in [`milestone3.ipynb`](milestone3.ipynb).
 
-## Key Performance Indicators (KPIs)
-The following KPIs will be used to measure the success of this study:
-### Femicide Rate
+---
 
-The femicide rate provides critical insights for policymakers, guiding the development of comprehensive action plans that address the root causes of violence against women and promote gender equality.</mark>
-* Definition: The number of femicides per 100,000 women in Canada.
-* Frequency: Yearly
-* Range: 0-9999?
+## 📈 Visualizations
 
+### 1. Correlation Matrix
 
-### Indigenous Femicide Rate: The proportion of femicide victims who are Indigenous women.
-* **Child Victims**: The number of children affected by femicide, either as witnesses or victims.
-* **Geographic Distribution**: Femicide rates by province or region.
-* **Data Completeness**: The percentage of femicide cases with complete and accurate data.
+![Correlation Matrix](visualizations/Correlation%20Matrix.png)
+
+We observed a moderate correlation (`r ≈ 0.22`) between femicide numbers and population-adjusted rates, while age showed a weaker relationship. This implies population size may play a stronger role than age in regional femicide prevalence.
+
+---
+
+### 2. Homicide Trends Over Time by Region
+
+![Homicide Trends by Region](visualizations/Homicide%20Trend.png)
+
+The **Americas** and **Europe** regions showed a strong upward trend from 2013–2020, peaking around 2019. Other regions remained relatively stable, indicating regional concentration of rising homicide rates.
+
+---
+
+## 🧠 Causal Inference Summary
+
+While some variables are correlated, this does not imply causation. Without additional socioeconomic, legal, or cultural data, we cannot draw definitive causal conclusions. However, the observed trends support the idea that regional conditions may influence femicide rates — a topic worth deeper investigation.
+
+---
+
+## 📁 Files in This Repo
+
+- `milestone3.ipynb`: Main notebook with code and analysis  
+- `visualizations/Correlation Matrix.png`: Correlation heatmap  
+- `visualizations/Homicide Trend.png`: Regional trend line plot  
+- *(Dataset not included — available in Colab datasets folder)*
+
+---
+
+## 🧾 Author
+
+Adriel – BSAD 482 | Decision Intelligence  
+March 2025
