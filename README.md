@@ -6,7 +6,7 @@ By: Adriel Uangbaoje
 
 This project analyzes the rise in femicide in Canada from 2008 to 2022 using a cleaned homicide dataset. The goal is to identify regional and demographic patterns, visualize trends over time, and explore possible causal relationships using correlation analysis.
 
-The complete notebook can be found in [`Milestone 3.ipynb`](Milestone_3.ipynb).
+The complete notebook can be found in [`Milestone_3.ipynb`](Milestone_3.ipynb).
 
 ---
 
