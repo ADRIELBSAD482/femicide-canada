@@ -1,4 +1,4 @@
-## D12: Causal Inference – Fisheries Dataset
+## Causal Inference – Fisheries Dataset
 
 This project explores causal relationships using a real-world fisheries dataset provided for BSAD 482. The goal is to understand whether *fishing effectiveness* has a causal impact on *fish density*, using a structured 3-part approach.
 
@@ -6,7 +6,7 @@ This project explores causal relationships using a real-world fisheries dataset 
 
 ### Part 1: Theoretical Causal Model
 
-We began by developing a theoretical causal model using domain knowledge. The variables considered included:
+I began by developing a theoretical causal model using domain knowledge. The variables considered included:
 
 - `fishing_effectiveness` (treatment)
 - `fish_density` (outcome)
