@@ -22,6 +22,8 @@ The theoretical model assumes the following causal relationships:
 - `pressure_to_innovate → fishing_effectiveness`
 - `replenishment_rate → fish_density`
 
-#### Theoretical Graph
+### Theoretical Graph
 
-![Theoretical Graph](visualizations/theoretical_fishing_model.png)
+![Theoretical Graph](../visualizations/theoretical_fishing_model.png)
+
+
