@@ -45,6 +45,21 @@ This exercise demonstrates both the potential and the limits of data-driven caus
 
 ---
 
-### 📊 Learned Graph
+## Part 3: Causal Inference Using DoWhy
 
-![Learned Graph](visualizations/icalingam_simulated_realdata.png)
+In this final part, we used the DoWhy framework to estimate the causal effect of `fishing_effectiveness` on `fish_density` using the real fisheries dataset.
+
+We specified the treatment and outcome variables, along with common causes including:
+
+- `pressure_to_earn`
+- `competition`
+- `pressure_to_innovate`
+- `replenishment_rate`
+
+### Estimated Effect
+
+The estimated causal effect of `fishing_effectiveness` on `fish_density` was:
+
+```plaintext
+-2.7332
+
